@@ -1,4 +1,3 @@
-
 # Imagruia
 
 画像を Data URI に変換する node-webkit 製のアプリケーション。
@@ -9,8 +8,8 @@ Data URI が表示されます。
 
 ## ダウンロード
 
-![For Mac](https://s3-ap-northeast-1.amazonaws.com/share.mach3.jp/imaguria/imaguria-osx.zip)
-![For Windows](https://s3-ap-northeast-1.amazonaws.com/share.mach3.jp/imaguria/imaguria-win.zip)
+- [For Mac](https://s3-ap-northeast-1.amazonaws.com/share.mach3.jp/imaguria/imaguria-osx.zip)
+- [For Windows](https://s3-ap-northeast-1.amazonaws.com/share.mach3.jp/imaguria/imaguria-win.zip)
 
 ## ライセンス
 
