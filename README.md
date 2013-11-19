@@ -1,5 +1,4 @@
-
-# Imagruia
+# Imaguria
 
 画像を Data URI に変換する node-webkit 製の単機能アプリケーション。  
 画像をアプリケーション画面にドロップするか、
